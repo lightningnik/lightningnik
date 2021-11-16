@@ -1,7 +1,6 @@
-![Header](https://github.com/lightningnik/readme.md/blob/main/Images/eaRYgG3duMdr3i18wDXg4Kk1qJU-1920.jpg)
-
-### Hi there 👋
+### Hi there, I'm Lightningnikб 4th year student👋
 ### Welcome to my GitHub
+### Here I'm publishing my practice works
 
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin)
