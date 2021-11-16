@@ -1,4 +1,4 @@
-### Hi there, I'm Lightningnikб 4th year student👋
+### Hi there, I'm Lightningnik, 4th year student👋
 ### Welcome to my GitHub
 ### Here I'm publishing my practice works
 
