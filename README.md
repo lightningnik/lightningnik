@@ -8,6 +8,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=CSharp)
 
-### Контакты
+### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Lightningnik) 
+[![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=VK)](https://vk.com/lightningnik) 
+
