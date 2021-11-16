@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/lightningnik/readme.md/blob/main/Images/eaRYgG3duMdr3i18wDXg4Kk1qJU-1920.jpg)
 
 ### Hi there 👋
 ### Welcome to my GitHub
@@ -10,4 +10,4 @@
 
 ### Контакты
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/balalaev13)  [![VK](https://img.shields.io/badge/-vkонтакте-black?style=for-the-badge&logo=vk)](https://vk.com/balalaev13)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Lightningnik) 
