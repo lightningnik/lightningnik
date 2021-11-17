@@ -1,6 +1,6 @@
-### Hi there, I'm Lightningnik, 4th year student👋
+### Hi there, I'm Lightningnik👋
 ### Welcome to my GitHub
-### Here I'm publishing my practice works
+### Here I'm publishing my practice works and my personal projects that you can use as examples in writing your own projects
 
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin)
